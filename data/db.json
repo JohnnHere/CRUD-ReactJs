@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Modern Ivalice",
+      "body": "Text Content",
+      "author": "J. Orlando",
+      "id": 1
+    },
+    {
+      "title": "New Era",
+      "body": "Text Content",
+      "author": "Ferreira",
+      "id": 2
+    }
+  ]
+}
