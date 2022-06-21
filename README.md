@@ -1,4 +1,4 @@
-This is a repository of a fantasy tales blogs. The idea is to store and organize my tales.
+This is a repository of fantasy tales. The idea is to store and organize my tales.
 
 ![medieval rpg imagem](https://user-images.githubusercontent.com/92900668/174809852-c6e3cfe0-0be2-4ec5-a8c6-574715c23a2c.jpg)
 
